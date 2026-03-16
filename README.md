@@ -4,7 +4,7 @@
 
 By combining advanced liquidity mechanisms and decentralized infrastructure, Synthix unlocks seamless exposure to synthetic markets while maintaining transparency and efficiency.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : 3ECtVd44SSbHU9VfqtxJFkYz3TUpGNn2Q4NcaDwCpump
 ---
 
 ## Overview
