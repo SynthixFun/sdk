@@ -129,7 +129,7 @@ Always conduct your own research before interacting with DeFi protocols.
 
 Follow Synthix and stay updated:
 
-- Twitter (X): https://x.com/SynthixFun
+- Twitter (X): [https://x.com/SynthixFun](https://x.com/SynthixChain)
 - Website: https://synthix.fun/
 
 ---
